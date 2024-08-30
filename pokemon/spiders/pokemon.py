@@ -12,10 +12,10 @@ class PokemonScraper(scrapy.Spider):
             link = pokemon.css('td.cell-name a.ent-name::attr(href)').get()
             pokemon_url = response.urljoin(link)
 
-            # Extração dos tipos
+            
             types = ", ".join(pokemon.css('td.cell-icon a.type-icon::text').getall())
 
-            # Segue o link para a página detalhada do Pokémon
+            
             yield response.follow(pokemon_url,
                                   self.parse_pokemon,
                                   meta={
@@ -31,24 +31,24 @@ class PokemonScraper(scrapy.Spider):
         pokemon_url = response.meta['url']
         types = response.meta['types']
 
-        # Extração da altura e peso
+        
         height = response.css('.vitals-table tr:contains("Height") td::text').get().strip()
         weight = response.css('.vitals-table tr:contains("Weight") td::text').get().strip()
 
-        # Extração das evoluções
+        
         evolutions = []
         for evo in response.css('.infocard-list-evo .infocard'):
             evo_number = evo.css('.text-muted small::text').get()
             evo_name = evo.css('.ent-name::text').get()
             evo_link = response.urljoin(evo.css('a::attr(href)').get())
 
-            # Adiciona a evolução à lista se os dados não forem None
+            
             if evo_number and evo_name:
                 evolutions.append(f"{evo_number} - {evo_name} - {evo_link}")
 
         evolutions_str = "; ".join(evolutions)
 
-        # Extração das habilidades
+
         abilities = []
         for ability in response.css('.vitals-table tr:contains("Abilities") td a'):
             ability_name = ability.css('::text').get()
