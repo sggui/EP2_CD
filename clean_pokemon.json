@@ -395,10 +395,6 @@
                 "url": "https://pokemondb.net/ability/gluttony"
             },
             {
-                "name": "Hustle",
-                "url": "https://pokemondb.net/ability/hustle"
-            },
-            {
                 "name": "Thick Fat",
                 "url": "https://pokemondb.net/ability/thick-fat"
             }
@@ -428,10 +424,6 @@
             {
                 "name": "Gluttony",
                 "url": "https://pokemondb.net/ability/gluttony"
-            },
-            {
-                "name": "Hustle",
-                "url": "https://pokemondb.net/ability/hustle"
             },
             {
                 "name": "Thick Fat",
@@ -1112,16 +1104,8 @@
                 "url": "https://pokemondb.net/ability/sand-force"
             },
             {
-                "name": "Sand Veil",
-                "url": "https://pokemondb.net/ability/sand-veil"
-            },
-            {
                 "name": "Tangling Hair",
                 "url": "https://pokemondb.net/ability/tangling-hair"
-            },
-            {
-                "name": "Sand Force",
-                "url": "https://pokemondb.net/ability/sand-force"
             }
         ]
     },
@@ -1147,16 +1131,8 @@
                 "url": "https://pokemondb.net/ability/sand-force"
             },
             {
-                "name": "Sand Veil",
-                "url": "https://pokemondb.net/ability/sand-veil"
-            },
-            {
                 "name": "Tangling Hair",
                 "url": "https://pokemondb.net/ability/tangling-hair"
-            },
-            {
-                "name": "Sand Force",
-                "url": "https://pokemondb.net/ability/sand-force"
             }
         ]
     },
@@ -1182,28 +1158,12 @@
                 "url": "https://pokemondb.net/ability/unnerve"
             },
             {
-                "name": "Pickup",
-                "url": "https://pokemondb.net/ability/pickup"
-            },
-            {
-                "name": "Technician",
-                "url": "https://pokemondb.net/ability/technician"
-            },
-            {
                 "name": "Rattled",
                 "url": "https://pokemondb.net/ability/rattled"
             },
             {
-                "name": "Pickup",
-                "url": "https://pokemondb.net/ability/pickup"
-            },
-            {
                 "name": "Tough Claws",
                 "url": "https://pokemondb.net/ability/tough-claws"
-            },
-            {
-                "name": "Unnerve",
-                "url": "https://pokemondb.net/ability/unnerve"
             }
         ]
     },
@@ -1231,10 +1191,6 @@
             {
                 "name": "Fur Coat",
                 "url": "https://pokemondb.net/ability/fur-coat"
-            },
-            {
-                "name": "Technician",
-                "url": "https://pokemondb.net/ability/technician"
             },
             {
                 "name": "Rattled",
@@ -1356,14 +1312,6 @@
                 "url": "https://pokemondb.net/ability/justified"
             },
             {
-                "name": "Intimidate",
-                "url": "https://pokemondb.net/ability/intimidate"
-            },
-            {
-                "name": "Flash Fire",
-                "url": "https://pokemondb.net/ability/flash-fire"
-            },
-            {
                 "name": "Rock Head",
                 "url": "https://pokemondb.net/ability/rock-head"
             }
@@ -1389,14 +1337,6 @@
             {
                 "name": "Justified",
                 "url": "https://pokemondb.net/ability/justified"
-            },
-            {
-                "name": "Intimidate",
-                "url": "https://pokemondb.net/ability/intimidate"
-            },
-            {
-                "name": "Flash Fire",
-                "url": "https://pokemondb.net/ability/flash-fire"
             },
             {
                 "name": "Rock Head",
@@ -1744,10 +1684,6 @@
                 "url": "https://pokemondb.net/ability/magnet-pull"
             },
             {
-                "name": "Sturdy",
-                "url": "https://pokemondb.net/ability/sturdy"
-            },
-            {
                 "name": "Galvanize",
                 "url": "https://pokemondb.net/ability/galvanize"
             }
@@ -1777,10 +1713,6 @@
             {
                 "name": "Magnet Pull",
                 "url": "https://pokemondb.net/ability/magnet-pull"
-            },
-            {
-                "name": "Sturdy",
-                "url": "https://pokemondb.net/ability/sturdy"
             },
             {
                 "name": "Galvanize",
@@ -1814,10 +1746,6 @@
                 "url": "https://pokemondb.net/ability/magnet-pull"
             },
             {
-                "name": "Sturdy",
-                "url": "https://pokemondb.net/ability/sturdy"
-            },
-            {
                 "name": "Galvanize",
                 "url": "https://pokemondb.net/ability/galvanize"
             }
@@ -1843,10 +1771,6 @@
             {
                 "name": "Flame Body",
                 "url": "https://pokemondb.net/ability/flame-body"
-            },
-            {
-                "name": "Run Away",
-                "url": "https://pokemondb.net/ability/run-away"
             },
             {
                 "name": "Pastel Veil",
@@ -1878,10 +1802,6 @@
             {
                 "name": "Flame Body",
                 "url": "https://pokemondb.net/ability/flame-body"
-            },
-            {
-                "name": "Run Away",
-                "url": "https://pokemondb.net/ability/run-away"
             },
             {
                 "name": "Pastel Veil",
@@ -1917,14 +1837,6 @@
             {
                 "name": "Gluttony",
                 "url": "https://pokemondb.net/ability/gluttony"
-            },
-            {
-                "name": "Own Tempo",
-                "url": "https://pokemondb.net/ability/own-tempo"
-            },
-            {
-                "name": "Regenerator",
-                "url": "https://pokemondb.net/ability/regenerator"
             }
         ]
     },
@@ -1956,14 +1868,6 @@
             {
                 "name": "Quick Draw",
                 "url": "https://pokemondb.net/ability/quick-draw"
-            },
-            {
-                "name": "Own Tempo",
-                "url": "https://pokemondb.net/ability/own-tempo"
-            },
-            {
-                "name": "Regenerator",
-                "url": "https://pokemondb.net/ability/regenerator"
             }
         ]
     },
@@ -2158,10 +2062,6 @@
                 "url": "https://pokemondb.net/ability/poison-touch"
             },
             {
-                "name": "Poison Touch",
-                "url": "https://pokemondb.net/ability/poison-touch"
-            },
-            {
                 "name": "Gluttony",
                 "url": "https://pokemondb.net/ability/gluttony"
             },
@@ -2187,10 +2087,6 @@
             {
                 "name": "Sticky Hold",
                 "url": "https://pokemondb.net/ability/sticky-hold"
-            },
-            {
-                "name": "Poison Touch",
-                "url": "https://pokemondb.net/ability/poison-touch"
             },
             {
                 "name": "Poison Touch",
@@ -2436,18 +2332,6 @@
             {
                 "name": "Aftermath",
                 "url": "https://pokemondb.net/ability/aftermath"
-            },
-            {
-                "name": "Soundproof",
-                "url": "https://pokemondb.net/ability/soundproof"
-            },
-            {
-                "name": "Static",
-                "url": "https://pokemondb.net/ability/static"
-            },
-            {
-                "name": "Aftermath",
-                "url": "https://pokemondb.net/ability/aftermath"
             }
         ]
     },
@@ -2460,18 +2344,6 @@
         "weight_kg": "66.6 kg",
         "evolutions": "#0100 - Voltorb - https://pokemondb.net/pokedex/voltorb; #0101 - Electrode - https://pokemondb.net/pokedex/electrode; #0100 - Voltorb - https://pokemondb.net/pokedex/voltorb; #0101 - Electrode - https://pokemondb.net/pokedex/electrode",
         "abilities": [
-            {
-                "name": "Soundproof",
-                "url": "https://pokemondb.net/ability/soundproof"
-            },
-            {
-                "name": "Static",
-                "url": "https://pokemondb.net/ability/static"
-            },
-            {
-                "name": "Aftermath",
-                "url": "https://pokemondb.net/ability/aftermath"
-            },
             {
                 "name": "Soundproof",
                 "url": "https://pokemondb.net/ability/soundproof"
@@ -2525,10 +2397,6 @@
             {
                 "name": "Frisk",
                 "url": "https://pokemondb.net/ability/frisk"
-            },
-            {
-                "name": "Harvest",
-                "url": "https://pokemondb.net/ability/harvest"
             }
         ]
     },
@@ -2579,14 +2447,6 @@
             {
                 "name": "Cursed Body",
                 "url": "https://pokemondb.net/ability/cursed-body"
-            },
-            {
-                "name": "Lightning Rod",
-                "url": "https://pokemondb.net/ability/lightning-rod"
-            },
-            {
-                "name": "Rock Head",
-                "url": "https://pokemondb.net/ability/rock-head"
             }
         ]
     },
@@ -2702,14 +2562,6 @@
             {
                 "name": "Stench",
                 "url": "https://pokemondb.net/ability/stench"
-            },
-            {
-                "name": "Levitate",
-                "url": "https://pokemondb.net/ability/levitate"
-            },
-            {
-                "name": "Neutralizing Gas",
-                "url": "https://pokemondb.net/ability/neutralizing-gas"
             },
             {
                 "name": "Misty Surge",
@@ -3140,38 +2992,6 @@
             {
                 "name": "Sheer Force",
                 "url": "https://pokemondb.net/ability/sheer-force"
-            },
-            {
-                "name": "Intimidate",
-                "url": "https://pokemondb.net/ability/intimidate"
-            },
-            {
-                "name": "Anger Point",
-                "url": "https://pokemondb.net/ability/anger-point"
-            },
-            {
-                "name": "Cud Chew",
-                "url": "https://pokemondb.net/ability/cud-chew"
-            },
-            {
-                "name": "Intimidate",
-                "url": "https://pokemondb.net/ability/intimidate"
-            },
-            {
-                "name": "Anger Point",
-                "url": "https://pokemondb.net/ability/anger-point"
-            },
-            {
-                "name": "Cud Chew",
-                "url": "https://pokemondb.net/ability/cud-chew"
-            },
-            {
-                "name": "Intimidate",
-                "url": "https://pokemondb.net/ability/intimidate"
-            },
-            {
-                "name": "Anger Point",
-                "url": "https://pokemondb.net/ability/anger-point"
             },
             {
                 "name": "Cud Chew",
@@ -3787,10 +3607,6 @@
             {
                 "name": "Flash Fire",
                 "url": "https://pokemondb.net/ability/flash-fire"
-            },
-            {
-                "name": "Blaze",
-                "url": "https://pokemondb.net/ability/blaze"
             },
             {
                 "name": "Frisk",
@@ -4618,14 +4434,6 @@
             {
                 "name": "Poison Point",
                 "url": "https://pokemondb.net/ability/poison-point"
-            },
-            {
-                "name": "Water Absorb",
-                "url": "https://pokemondb.net/ability/water-absorb"
-            },
-            {
-                "name": "Unaware",
-                "url": "https://pokemondb.net/ability/unaware"
             }
         ]
     },
@@ -4737,14 +4545,6 @@
             {
                 "name": "Curious Medicine",
                 "url": "https://pokemondb.net/ability/curious-medicine"
-            },
-            {
-                "name": "Own Tempo",
-                "url": "https://pokemondb.net/ability/own-tempo"
-            },
-            {
-                "name": "Regenerator",
-                "url": "https://pokemondb.net/ability/regenerator"
             }
         ]
     },
@@ -4997,18 +4797,6 @@
             {
                 "name": "Intimidate",
                 "url": "https://pokemondb.net/ability/intimidate"
-            },
-            {
-                "name": "Poison Point",
-                "url": "https://pokemondb.net/ability/poison-point"
-            },
-            {
-                "name": "Swift Swim",
-                "url": "https://pokemondb.net/ability/swift-swim"
-            },
-            {
-                "name": "Intimidate",
-                "url": "https://pokemondb.net/ability/intimidate"
             }
         ]
     },
@@ -5032,10 +4820,6 @@
             {
                 "name": "Light Metal",
                 "url": "https://pokemondb.net/ability/light-metal"
-            },
-            {
-                "name": "Technician",
-                "url": "https://pokemondb.net/ability/technician"
             }
         ]
     },
@@ -5098,18 +4882,6 @@
         "weight_kg": "28.0 kg",
         "evolutions": "#0215 - Sneasel - https://pokemondb.net/pokedex/sneasel; #0461 - Weavile - https://pokemondb.net/pokedex/weavile; #0215 - Sneasel - https://pokemondb.net/pokedex/sneasel; #0903 - Sneasler - https://pokemondb.net/pokedex/sneasler",
         "abilities": [
-            {
-                "name": "Inner Focus",
-                "url": "https://pokemondb.net/ability/inner-focus"
-            },
-            {
-                "name": "Keen Eye",
-                "url": "https://pokemondb.net/ability/keen-eye"
-            },
-            {
-                "name": "Pickpocket",
-                "url": "https://pokemondb.net/ability/pickpocket"
-            },
             {
                 "name": "Inner Focus",
                 "url": "https://pokemondb.net/ability/inner-focus"
@@ -5848,10 +5620,6 @@
             {
                 "name": "Unnerve",
                 "url": "https://pokemondb.net/ability/unnerve"
-            },
-            {
-                "name": "Sand Stream",
-                "url": "https://pokemondb.net/ability/sand-stream"
             }
         ]
     },
@@ -6023,10 +5791,6 @@
             {
                 "name": "Speed Boost",
                 "url": "https://pokemondb.net/ability/speed-boost"
-            },
-            {
-                "name": "Speed Boost",
-                "url": "https://pokemondb.net/ability/speed-boost"
             }
         ]
     },
@@ -6157,18 +5921,6 @@
             {
                 "name": "Quick Feet",
                 "url": "https://pokemondb.net/ability/quick-feet"
-            },
-            {
-                "name": "Pickup",
-                "url": "https://pokemondb.net/ability/pickup"
-            },
-            {
-                "name": "Gluttony",
-                "url": "https://pokemondb.net/ability/gluttony"
-            },
-            {
-                "name": "Quick Feet",
-                "url": "https://pokemondb.net/ability/quick-feet"
             }
         ]
     },
@@ -6181,18 +5933,6 @@
         "weight_kg": "32.5 kg",
         "evolutions": "#0263 - Zigzagoon - https://pokemondb.net/pokedex/zigzagoon; #0264 - Linoone - https://pokemondb.net/pokedex/linoone; #0263 - Zigzagoon - https://pokemondb.net/pokedex/zigzagoon; #0264 - Linoone - https://pokemondb.net/pokedex/linoone; #0862 - Obstagoon - https://pokemondb.net/pokedex/obstagoon",
         "abilities": [
-            {
-                "name": "Pickup",
-                "url": "https://pokemondb.net/ability/pickup"
-            },
-            {
-                "name": "Gluttony",
-                "url": "https://pokemondb.net/ability/gluttony"
-            },
-            {
-                "name": "Quick Feet",
-                "url": "https://pokemondb.net/ability/quick-feet"
-            },
             {
                 "name": "Pickup",
                 "url": "https://pokemondb.net/ability/pickup"
@@ -7128,10 +6868,6 @@
             {
                 "name": "Telepathy",
                 "url": "https://pokemondb.net/ability/telepathy"
-            },
-            {
-                "name": "Pure Power",
-                "url": "https://pokemondb.net/ability/pure-power"
             }
         ]
     },
@@ -8025,18 +7761,6 @@
             {
                 "name": "Forecast",
                 "url": "https://pokemondb.net/ability/forecast"
-            },
-            {
-                "name": "Forecast",
-                "url": "https://pokemondb.net/ability/forecast"
-            },
-            {
-                "name": "Forecast",
-                "url": "https://pokemondb.net/ability/forecast"
-            },
-            {
-                "name": "Forecast",
-                "url": "https://pokemondb.net/ability/forecast"
             }
         ]
     },
@@ -8640,10 +8364,6 @@
             {
                 "name": "Levitate",
                 "url": "https://pokemondb.net/ability/levitate"
-            },
-            {
-                "name": "Levitate",
-                "url": "https://pokemondb.net/ability/levitate"
             }
         ]
     },
@@ -8656,10 +8376,6 @@
         "weight_kg": "60.0 kg",
         "evolutions": "",
         "abilities": [
-            {
-                "name": "Levitate",
-                "url": "https://pokemondb.net/ability/levitate"
-            },
             {
                 "name": "Levitate",
                 "url": "https://pokemondb.net/ability/levitate"
@@ -8747,18 +8463,6 @@
         "weight_kg": "60.8 kg",
         "evolutions": "",
         "abilities": [
-            {
-                "name": "Pressure",
-                "url": "https://pokemondb.net/ability/pressure"
-            },
-            {
-                "name": "Pressure",
-                "url": "https://pokemondb.net/ability/pressure"
-            },
-            {
-                "name": "Pressure",
-                "url": "https://pokemondb.net/ability/pressure"
-            },
             {
                 "name": "Pressure",
                 "url": "https://pokemondb.net/ability/pressure"
@@ -9284,22 +8988,6 @@
             {
                 "name": "Overcoat",
                 "url": "https://pokemondb.net/ability/overcoat"
-            },
-            {
-                "name": "Shed Skin",
-                "url": "https://pokemondb.net/ability/shed-skin"
-            },
-            {
-                "name": "Overcoat",
-                "url": "https://pokemondb.net/ability/overcoat"
-            },
-            {
-                "name": "Shed Skin",
-                "url": "https://pokemondb.net/ability/shed-skin"
-            },
-            {
-                "name": "Overcoat",
-                "url": "https://pokemondb.net/ability/overcoat"
             }
         ]
     },
@@ -9312,22 +9000,6 @@
         "weight_kg": "6.5 kg",
         "evolutions": "#0412 - Burmy - https://pokemondb.net/pokedex/burmy; #0414 - Mothim - https://pokemondb.net/pokedex/mothim; #0412 - Burmy - https://pokemondb.net/pokedex/burmy; #0413 - Wormadam - https://pokemondb.net/pokedex/wormadam; #0412 - Burmy - https://pokemondb.net/pokedex/burmy; #0413 - Wormadam - https://pokemondb.net/pokedex/wormadam; #0412 - Burmy - https://pokemondb.net/pokedex/burmy; #0413 - Wormadam - https://pokemondb.net/pokedex/wormadam",
         "abilities": [
-            {
-                "name": "Anticipation",
-                "url": "https://pokemondb.net/ability/anticipation"
-            },
-            {
-                "name": "Overcoat",
-                "url": "https://pokemondb.net/ability/overcoat"
-            },
-            {
-                "name": "Anticipation",
-                "url": "https://pokemondb.net/ability/anticipation"
-            },
-            {
-                "name": "Overcoat",
-                "url": "https://pokemondb.net/ability/overcoat"
-            },
             {
                 "name": "Anticipation",
                 "url": "https://pokemondb.net/ability/anticipation"
@@ -10336,10 +10008,6 @@
             {
                 "name": "Soundproof",
                 "url": "https://pokemondb.net/ability/soundproof"
-            },
-            {
-                "name": "Snow Warning",
-                "url": "https://pokemondb.net/ability/snow-warning"
             }
         ]
     },
@@ -10745,26 +10413,6 @@
             {
                 "name": "Levitate",
                 "url": "https://pokemondb.net/ability/levitate"
-            },
-            {
-                "name": "Levitate",
-                "url": "https://pokemondb.net/ability/levitate"
-            },
-            {
-                "name": "Levitate",
-                "url": "https://pokemondb.net/ability/levitate"
-            },
-            {
-                "name": "Levitate",
-                "url": "https://pokemondb.net/ability/levitate"
-            },
-            {
-                "name": "Levitate",
-                "url": "https://pokemondb.net/ability/levitate"
-            },
-            {
-                "name": "Levitate",
-                "url": "https://pokemondb.net/ability/levitate"
             }
         ]
     },
@@ -10829,14 +10477,6 @@
             {
                 "name": "Telepathy",
                 "url": "https://pokemondb.net/ability/telepathy"
-            },
-            {
-                "name": "Pressure",
-                "url": "https://pokemondb.net/ability/pressure"
-            },
-            {
-                "name": "Telepathy",
-                "url": "https://pokemondb.net/ability/telepathy"
             }
         ]
     },
@@ -10849,14 +10489,6 @@
         "weight_kg": "336.0 kg",
         "evolutions": "",
         "abilities": [
-            {
-                "name": "Pressure",
-                "url": "https://pokemondb.net/ability/pressure"
-            },
-            {
-                "name": "Telepathy",
-                "url": "https://pokemondb.net/ability/telepathy"
-            },
             {
                 "name": "Pressure",
                 "url": "https://pokemondb.net/ability/pressure"
@@ -11201,10 +10833,6 @@
             {
                 "name": "Shell Armor",
                 "url": "https://pokemondb.net/ability/shell-armor"
-            },
-            {
-                "name": "Torrent",
-                "url": "https://pokemondb.net/ability/torrent"
             },
             {
                 "name": "Sharpness",
@@ -11829,10 +11457,6 @@
             {
                 "name": "Klutz",
                 "url": "https://pokemondb.net/ability/klutz"
-            },
-            {
-                "name": "Healer",
-                "url": "https://pokemondb.net/ability/healer"
             }
         ]
     },
@@ -12249,16 +11873,8 @@
                 "url": "https://pokemondb.net/ability/leaf-guard"
             },
             {
-                "name": "Chlorophyll",
-                "url": "https://pokemondb.net/ability/chlorophyll"
-            },
-            {
                 "name": "Hustle",
                 "url": "https://pokemondb.net/ability/hustle"
-            },
-            {
-                "name": "Leaf Guard",
-                "url": "https://pokemondb.net/ability/leaf-guard"
             }
         ]
     },
@@ -12288,24 +11904,8 @@
                 "url": "https://pokemondb.net/ability/rock-head"
             },
             {
-                "name": "Adaptability",
-                "url": "https://pokemondb.net/ability/adaptability"
-            },
-            {
-                "name": "Mold Breaker",
-                "url": "https://pokemondb.net/ability/mold-breaker"
-            },
-            {
                 "name": "Rattled",
                 "url": "https://pokemondb.net/ability/rattled"
-            },
-            {
-                "name": "Adaptability",
-                "url": "https://pokemondb.net/ability/adaptability"
-            },
-            {
-                "name": "Mold Breaker",
-                "url": "https://pokemondb.net/ability/mold-breaker"
             }
         ]
     },
@@ -12394,14 +11994,6 @@
             {
                 "name": "Inner Focus",
                 "url": "https://pokemondb.net/ability/inner-focus"
-            },
-            {
-                "name": "Hustle",
-                "url": "https://pokemondb.net/ability/hustle"
-            },
-            {
-                "name": "Inner Focus",
-                "url": "https://pokemondb.net/ability/inner-focus"
             }
         ]
     },
@@ -12423,28 +12015,8 @@
                 "url": "https://pokemondb.net/ability/zen-mode"
             },
             {
-                "name": "Sheer Force",
-                "url": "https://pokemondb.net/ability/sheer-force"
-            },
-            {
-                "name": "Zen Mode",
-                "url": "https://pokemondb.net/ability/zen-mode"
-            },
-            {
                 "name": "Gorilla Tactics",
                 "url": "https://pokemondb.net/ability/gorilla-tactics"
-            },
-            {
-                "name": "Zen Mode",
-                "url": "https://pokemondb.net/ability/zen-mode"
-            },
-            {
-                "name": "Gorilla Tactics",
-                "url": "https://pokemondb.net/ability/gorilla-tactics"
-            },
-            {
-                "name": "Zen Mode",
-                "url": "https://pokemondb.net/ability/zen-mode"
             }
         ]
     },
@@ -12754,10 +12326,6 @@
             {
                 "name": "Illusion",
                 "url": "https://pokemondb.net/ability/illusion"
-            },
-            {
-                "name": "Illusion",
-                "url": "https://pokemondb.net/ability/illusion"
             }
         ]
     },
@@ -12770,10 +12338,6 @@
         "weight_kg": "81.1 kg",
         "evolutions": "#0570 - Zorua - https://pokemondb.net/pokedex/zorua; #0571 - Zoroark - https://pokemondb.net/pokedex/zoroark; #0570 - Zorua - https://pokemondb.net/pokedex/zorua; #0571 - Zoroark - https://pokemondb.net/pokedex/zoroark",
         "abilities": [
-            {
-                "name": "Illusion",
-                "url": "https://pokemondb.net/ability/illusion"
-            },
             {
                 "name": "Illusion",
                 "url": "https://pokemondb.net/ability/illusion"
@@ -14038,14 +13602,6 @@
                 "url": "https://pokemondb.net/ability/defiant"
             },
             {
-                "name": "Keen Eye",
-                "url": "https://pokemondb.net/ability/keen-eye"
-            },
-            {
-                "name": "Sheer Force",
-                "url": "https://pokemondb.net/ability/sheer-force"
-            },
-            {
                 "name": "Tinted Lens",
                 "url": "https://pokemondb.net/ability/tinted-lens"
             }
@@ -14405,10 +13961,6 @@
             {
                 "name": "Justified",
                 "url": "https://pokemondb.net/ability/justified"
-            },
-            {
-                "name": "Justified",
-                "url": "https://pokemondb.net/ability/justified"
             }
         ]
     },
@@ -14421,10 +13973,6 @@
         "weight_kg": "6.5 kg",
         "evolutions": "",
         "abilities": [
-            {
-                "name": "Serene Grace",
-                "url": "https://pokemondb.net/ability/serene-grace"
-            },
             {
                 "name": "Serene Grace",
                 "url": "https://pokemondb.net/ability/serene-grace"
@@ -15036,14 +14584,6 @@
                 "url": "https://pokemondb.net/ability/prankster"
             },
             {
-                "name": "Keen Eye",
-                "url": "https://pokemondb.net/ability/keen-eye"
-            },
-            {
-                "name": "Infiltrator",
-                "url": "https://pokemondb.net/ability/infiltrator"
-            },
-            {
                 "name": "Competitive",
                 "url": "https://pokemondb.net/ability/competitive"
             }
@@ -15088,10 +14628,6 @@
         "weight_kg": "53.0 kg",
         "evolutions": "#0679 - Honedge - https://pokemondb.net/pokedex/honedge; #0680 - Doublade - https://pokemondb.net/pokedex/doublade; #0681 - Aegislash - https://pokemondb.net/pokedex/aegislash",
         "abilities": [
-            {
-                "name": "Stance Change",
-                "url": "https://pokemondb.net/ability/stance-change"
-            },
             {
                 "name": "Stance Change",
                 "url": "https://pokemondb.net/ability/stance-change"
@@ -15593,16 +15129,8 @@
                 "url": "https://pokemondb.net/ability/gooey"
             },
             {
-                "name": "Sap Sipper",
-                "url": "https://pokemondb.net/ability/sap-sipper"
-            },
-            {
                 "name": "Shell Armor",
                 "url": "https://pokemondb.net/ability/shell-armor"
-            },
-            {
-                "name": "Gooey",
-                "url": "https://pokemondb.net/ability/gooey"
             }
         ]
     },
@@ -15628,16 +15156,8 @@
                 "url": "https://pokemondb.net/ability/gooey"
             },
             {
-                "name": "Sap Sipper",
-                "url": "https://pokemondb.net/ability/sap-sipper"
-            },
-            {
                 "name": "Shell Armor",
                 "url": "https://pokemondb.net/ability/shell-armor"
-            },
-            {
-                "name": "Gooey",
-                "url": "https://pokemondb.net/ability/gooey"
             }
         ]
     },
@@ -15726,42 +15246,6 @@
             {
                 "name": "Insomnia",
                 "url": "https://pokemondb.net/ability/insomnia"
-            },
-            {
-                "name": "Pickup",
-                "url": "https://pokemondb.net/ability/pickup"
-            },
-            {
-                "name": "Frisk",
-                "url": "https://pokemondb.net/ability/frisk"
-            },
-            {
-                "name": "Insomnia",
-                "url": "https://pokemondb.net/ability/insomnia"
-            },
-            {
-                "name": "Pickup",
-                "url": "https://pokemondb.net/ability/pickup"
-            },
-            {
-                "name": "Frisk",
-                "url": "https://pokemondb.net/ability/frisk"
-            },
-            {
-                "name": "Insomnia",
-                "url": "https://pokemondb.net/ability/insomnia"
-            },
-            {
-                "name": "Pickup",
-                "url": "https://pokemondb.net/ability/pickup"
-            },
-            {
-                "name": "Frisk",
-                "url": "https://pokemondb.net/ability/frisk"
-            },
-            {
-                "name": "Insomnia",
-                "url": "https://pokemondb.net/ability/insomnia"
             }
         ]
     },
@@ -15774,42 +15258,6 @@
         "weight_kg": "12.5 kg",
         "evolutions": "#0710 - Pumpkaboo - https://pokemondb.net/pokedex/pumpkaboo; #0711 - Gourgeist - https://pokemondb.net/pokedex/gourgeist",
         "abilities": [
-            {
-                "name": "Pickup",
-                "url": "https://pokemondb.net/ability/pickup"
-            },
-            {
-                "name": "Frisk",
-                "url": "https://pokemondb.net/ability/frisk"
-            },
-            {
-                "name": "Insomnia",
-                "url": "https://pokemondb.net/ability/insomnia"
-            },
-            {
-                "name": "Pickup",
-                "url": "https://pokemondb.net/ability/pickup"
-            },
-            {
-                "name": "Frisk",
-                "url": "https://pokemondb.net/ability/frisk"
-            },
-            {
-                "name": "Insomnia",
-                "url": "https://pokemondb.net/ability/insomnia"
-            },
-            {
-                "name": "Pickup",
-                "url": "https://pokemondb.net/ability/pickup"
-            },
-            {
-                "name": "Frisk",
-                "url": "https://pokemondb.net/ability/frisk"
-            },
-            {
-                "name": "Insomnia",
-                "url": "https://pokemondb.net/ability/insomnia"
-            },
             {
                 "name": "Pickup",
                 "url": "https://pokemondb.net/ability/pickup"
@@ -15871,14 +15319,6 @@
             {
                 "name": "Strong Jaw",
                 "url": "https://pokemondb.net/ability/strong-jaw"
-            },
-            {
-                "name": "Ice Body",
-                "url": "https://pokemondb.net/ability/ice-body"
-            },
-            {
-                "name": "Sturdy",
-                "url": "https://pokemondb.net/ability/sturdy"
             }
         ]
     },
@@ -15974,18 +15414,6 @@
             {
                 "name": "Power Construct",
                 "url": "https://pokemondb.net/ability/power-construct"
-            },
-            {
-                "name": "Aura Break",
-                "url": "https://pokemondb.net/ability/aura-break"
-            },
-            {
-                "name": "Power Construct",
-                "url": "https://pokemondb.net/ability/power-construct"
-            },
-            {
-                "name": "Power Construct",
-                "url": "https://pokemondb.net/ability/power-construct"
             }
         ]
     },
@@ -16017,10 +15445,6 @@
         "weight_kg": "9.0 kg",
         "evolutions": "",
         "abilities": [
-            {
-                "name": "Magician",
-                "url": "https://pokemondb.net/ability/magician"
-            },
             {
                 "name": "Magician",
                 "url": "https://pokemondb.net/ability/magician"
@@ -16096,10 +15520,6 @@
             {
                 "name": "Long Reach",
                 "url": "https://pokemondb.net/ability/long-reach"
-            },
-            {
-                "name": "Overgrow",
-                "url": "https://pokemondb.net/ability/overgrow"
             },
             {
                 "name": "Scrappy",
@@ -16439,18 +15859,6 @@
             {
                 "name": "Dancer",
                 "url": "https://pokemondb.net/ability/dancer"
-            },
-            {
-                "name": "Dancer",
-                "url": "https://pokemondb.net/ability/dancer"
-            },
-            {
-                "name": "Dancer",
-                "url": "https://pokemondb.net/ability/dancer"
-            },
-            {
-                "name": "Dancer",
-                "url": "https://pokemondb.net/ability/dancer"
             }
         ]
     },
@@ -16549,10 +15957,6 @@
                 "url": "https://pokemondb.net/ability/steadfast"
             },
             {
-                "name": "Keen Eye",
-                "url": "https://pokemondb.net/ability/keen-eye"
-            },
-            {
                 "name": "Vital Spirit",
                 "url": "https://pokemondb.net/ability/vital-spirit"
             },
@@ -16575,10 +15979,6 @@
         "weight_kg": "0.3 kg",
         "evolutions": "",
         "abilities": [
-            {
-                "name": "Schooling",
-                "url": "https://pokemondb.net/ability/schooling"
-            },
             {
                 "name": "Schooling",
                 "url": "https://pokemondb.net/ability/schooling"
@@ -17146,10 +16546,6 @@
             {
                 "name": "Shields Down",
                 "url": "https://pokemondb.net/ability/shields-down"
-            },
-            {
-                "name": "Shields Down",
-                "url": "https://pokemondb.net/ability/shields-down"
             }
         ]
     },
@@ -17601,14 +16997,6 @@
         "weight_kg": "230.0 kg",
         "evolutions": "",
         "abilities": [
-            {
-                "name": "Prism Armor",
-                "url": "https://pokemondb.net/ability/prism-armor"
-            },
-            {
-                "name": "Prism Armor",
-                "url": "https://pokemondb.net/ability/prism-armor"
-            },
             {
                 "name": "Prism Armor",
                 "url": "https://pokemondb.net/ability/prism-armor"
@@ -18605,16 +17993,8 @@
                 "url": "https://pokemondb.net/ability/technician"
             },
             {
-                "name": "Punk Rock",
-                "url": "https://pokemondb.net/ability/punk-rock"
-            },
-            {
                 "name": "Minus",
                 "url": "https://pokemondb.net/ability/minus"
-            },
-            {
-                "name": "Technician",
-                "url": "https://pokemondb.net/ability/technician"
             }
         ]
     },
@@ -19141,10 +18521,6 @@
             {
                 "name": "Ice Face",
                 "url": "https://pokemondb.net/ability/ice-face"
-            },
-            {
-                "name": "Ice Face",
-                "url": "https://pokemondb.net/ability/ice-face"
             }
         ]
     },
@@ -19172,14 +18548,6 @@
             {
                 "name": "Own Tempo",
                 "url": "https://pokemondb.net/ability/own-tempo"
-            },
-            {
-                "name": "Synchronize",
-                "url": "https://pokemondb.net/ability/synchronize"
-            },
-            {
-                "name": "Psychic Surge",
-                "url": "https://pokemondb.net/ability/psychic-surge"
             }
         ]
     },
@@ -19192,10 +18560,6 @@
         "weight_kg": "3.0 kg",
         "evolutions": "",
         "abilities": [
-            {
-                "name": "Hunger Switch",
-                "url": "https://pokemondb.net/ability/hunger-switch"
-            },
             {
                 "name": "Hunger Switch",
                 "url": "https://pokemondb.net/ability/hunger-switch"
@@ -19436,10 +18800,6 @@
             {
                 "name": "Intrepid Sword",
                 "url": "https://pokemondb.net/ability/intrepid-sword"
-            },
-            {
-                "name": "Intrepid Sword",
-                "url": "https://pokemondb.net/ability/intrepid-sword"
             }
         ]
     },
@@ -19452,10 +18812,6 @@
         "weight_kg": "210.0 kg",
         "evolutions": "",
         "abilities": [
-            {
-                "name": "Dauntless Shield",
-                "url": "https://pokemondb.net/ability/dauntless-shield"
-            },
             {
                 "name": "Dauntless Shield",
                 "url": "https://pokemondb.net/ability/dauntless-shield"
@@ -19501,10 +18857,6 @@
         "weight_kg": "105.0 kg",
         "evolutions": "#0891 - Kubfu - https://pokemondb.net/pokedex/kubfu; #0892 - Urshifu - https://pokemondb.net/pokedex/urshifu; #0892 - Urshifu - https://pokemondb.net/pokedex/urshifu",
         "abilities": [
-            {
-                "name": "Unseen Fist",
-                "url": "https://pokemondb.net/ability/unseen-fist"
-            },
             {
                 "name": "Unseen Fist",
                 "url": "https://pokemondb.net/ability/unseen-fist"
@@ -19602,10 +18954,6 @@
             {
                 "name": "As One",
                 "url": "https://pokemondb.net/ability/as-one"
-            },
-            {
-                "name": "As One",
-                "url": "https://pokemondb.net/ability/as-one"
             }
         ]
     },
@@ -19691,18 +19039,6 @@
         "weight_kg": "110.0 kg",
         "evolutions": "#0550 - Basculin - https://pokemondb.net/pokedex/basculin; #0902 - Basculegion - https://pokemondb.net/pokedex/basculegion; #0902 - Basculegion - https://pokemondb.net/pokedex/basculegion",
         "abilities": [
-            {
-                "name": "Swift Swim",
-                "url": "https://pokemondb.net/ability/swift-swim"
-            },
-            {
-                "name": "Adaptability",
-                "url": "https://pokemondb.net/ability/adaptability"
-            },
-            {
-                "name": "Mold Breaker",
-                "url": "https://pokemondb.net/ability/mold-breaker"
-            },
             {
                 "name": "Swift Swim",
                 "url": "https://pokemondb.net/ability/swift-swim"
@@ -20004,14 +19340,6 @@
             {
                 "name": "Aroma Veil",
                 "url": "https://pokemondb.net/ability/aroma-veil"
-            },
-            {
-                "name": "Gluttony",
-                "url": "https://pokemondb.net/ability/gluttony"
-            },
-            {
-                "name": "Thick Fat",
-                "url": "https://pokemondb.net/ability/thick-fat"
             }
         ]
     },
@@ -20203,18 +19531,6 @@
             {
                 "name": "Technician",
                 "url": "https://pokemondb.net/ability/technician"
-            },
-            {
-                "name": "Friend Guard",
-                "url": "https://pokemondb.net/ability/friend-guard"
-            },
-            {
-                "name": "Cheek Pouch",
-                "url": "https://pokemondb.net/ability/cheek-pouch"
-            },
-            {
-                "name": "Technician",
-                "url": "https://pokemondb.net/ability/technician"
             }
         ]
     },
@@ -20333,38 +19649,6 @@
             {
                 "name": "Guts",
                 "url": "https://pokemondb.net/ability/guts"
-            },
-            {
-                "name": "Intimidate",
-                "url": "https://pokemondb.net/ability/intimidate"
-            },
-            {
-                "name": "Hustle",
-                "url": "https://pokemondb.net/ability/hustle"
-            },
-            {
-                "name": "Guts",
-                "url": "https://pokemondb.net/ability/guts"
-            },
-            {
-                "name": "Intimidate",
-                "url": "https://pokemondb.net/ability/intimidate"
-            },
-            {
-                "name": "Hustle",
-                "url": "https://pokemondb.net/ability/hustle"
-            },
-            {
-                "name": "Sheer Force",
-                "url": "https://pokemondb.net/ability/sheer-force"
-            },
-            {
-                "name": "Intimidate",
-                "url": "https://pokemondb.net/ability/intimidate"
-            },
-            {
-                "name": "Hustle",
-                "url": "https://pokemondb.net/ability/hustle"
             },
             {
                 "name": "Sheer Force",
@@ -21068,10 +20352,6 @@
             {
                 "name": "Zero to Hero",
                 "url": "https://pokemondb.net/ability/zero-to-hero"
-            },
-            {
-                "name": "Zero to Hero",
-                "url": "https://pokemondb.net/ability/zero-to-hero"
             }
         ]
     },
@@ -21435,18 +20715,6 @@
         "weight_kg": "39.2 kg",
         "evolutions": "#0206 - Dunsparce - https://pokemondb.net/pokedex/dunsparce; #0982 - Dudunsparce - https://pokemondb.net/pokedex/dudunsparce; #0982 - Dudunsparce - https://pokemondb.net/pokedex/dudunsparce",
         "abilities": [
-            {
-                "name": "Serene Grace",
-                "url": "https://pokemondb.net/ability/serene-grace"
-            },
-            {
-                "name": "Run Away",
-                "url": "https://pokemondb.net/ability/run-away"
-            },
-            {
-                "name": "Rattled",
-                "url": "https://pokemondb.net/ability/rattled"
-            },
             {
                 "name": "Serene Grace",
                 "url": "https://pokemondb.net/ability/serene-grace"
@@ -22045,24 +21313,12 @@
                 "url": "https://pokemondb.net/ability/water-absorb"
             },
             {
-                "name": "Embody Aspect",
-                "url": "https://pokemondb.net/ability/embody-aspect"
-            },
-            {
                 "name": "Mold Breaker",
                 "url": "https://pokemondb.net/ability/mold-breaker"
             },
             {
-                "name": "Embody Aspect",
-                "url": "https://pokemondb.net/ability/embody-aspect"
-            },
-            {
                 "name": "Sturdy",
                 "url": "https://pokemondb.net/ability/sturdy"
-            },
-            {
-                "name": "Embody Aspect",
-                "url": "https://pokemondb.net/ability/embody-aspect"
             }
         ]
     },
