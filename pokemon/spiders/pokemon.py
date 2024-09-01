@@ -43,9 +43,14 @@ class PokemonScrapper(scrapy.Spider):
             if evo_name and evo_name.strip() == name.strip():
                 current_pokemon_found = True
             elif current_pokemon_found and evo_name and evo_number:
-                evolutions.append(f"#{evo_number} - {evo_name} - {evo_link}")
+                evo_number_int = int(evo_number.lstrip('#').lstrip('0') or '0')
+                evolutions.append({
+                    'number': evo_number_int,
+                    'name': evo_name,
+                    'url': evo_link
+                })
 
-        next_evolutions = "; ".join(evolutions) if evolutions else ""
+        next_evolutions = evolutions  
 
         abilities = []
         ability_links = response.css('.vitals-table tr:contains("Abilities") td a::attr(href)').getall()
@@ -65,7 +70,7 @@ class PokemonScrapper(scrapy.Spider):
             yield request
         else:
             yield {
-                'number': number,
+                'number': int(number.lstrip('#').lstrip('0') or '0'), 
                 'name': name,
                 'url': pokemon_url,
                 'types': types,
@@ -80,7 +85,7 @@ class PokemonScrapper(scrapy.Spider):
             'name': response.css('main > h1::text').get().strip(),
             'desc': response.css('.vitals-table > tbody > tr:nth-child(1) > td::text').get(),
             'effect': response.css('main > div > div > p').get(),
-            'url': response.css('link[rel="canonical"]::attr(href)').get()  # Corrigi aqui a falta de aspas e parêntese
+            'url': response.css('link[rel="canonical"]::attr(href)').get()
         }
 
         abilities = response.meta['abilities']
@@ -95,7 +100,7 @@ class PokemonScrapper(scrapy.Spider):
             yield next_request
         else:
             yield {
-                'number': response.meta['number'],
+                'number': int(response.meta['number'].lstrip('#').lstrip('0') or '0'), 
                 'name': response.meta['name'],
                 'url': response.meta['url'],
                 'types': response.meta['types'],
